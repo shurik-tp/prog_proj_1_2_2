@@ -1,4 +1,4 @@
-# Reddit posts analysis
+# TG NEWS BOT
 
 ## Авторы
 ФИО: Титов Павел Александрович
